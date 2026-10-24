@@ -54,14 +54,18 @@ deploy\03_沙盒全链路部署.md
 deploy\04_米家真机接入.md
 deploy\05_常见问题与排错.md
 ha_mcp_universal\README.md                    v2 MCP server 的现状、测试与快速开始
-finally new paper\HomeAssistant双仓库接口分析\  01~06、08~14 号文档（无 07）
+finally new paper\0916_HomeAssistant双仓库接口分析\  01~06、08~14 号文档（无 07）
                                               11 最终设计（实现以它为准）、12 统一粒度、
                                               13 实现现状与计划、14 接口交接（RL demo 用）
-finally new paper\外界大模型与HA交互方式调研\    外界模型控制 HA 的六条路线盘点：官方 MCP / 社区 MCP /
+finally new paper\0918_外界大模型与HA交互方式调研\    外界模型控制 HA 的六条路线盘点：官方 MCP / 社区 MCP /
                                               HA 内置对话代理 / 反向 MCP / 直接 REST / 传统通道
-finally new paper\UbiComp三支柱讨论\12_投稿策略-把三个支柱的故事讲圆.md
+finally new paper\0909_UbiComp三支柱讨论\12_投稿策略-把三个支柱的故事讲圆.md
                                               投稿策略基线（关键路径）：技术取舍按它判断
 ha_mcp_server\PLAN.md                         MCP 项目的长期计划
 simuhome_mqtt_publisher\README.md             SimuHome→MQTT→HA 的实际接入工程
-finally new paper\10_04V2接入小米后设计方案\    v2 设计文档（14 接口详细设计、15 交付口径、16 任务梳理）
+finally new paper\1005_10_04V2接入小米后设计方案\    v2 设计文档（14 接口详细设计、15 交付口径）
+finally new paper\0520_方法相关的论文\16_四个Bench任务类型梳理.md  五个 Bench 的任务类型（SMH 22 子类全表、HomeFlow 5 大类）
+finally new paper\1012\                        01 模型可见接口面与完整交互样例（逐字 tools/list + 4 组样例）；
+                                               02 五篇论文的协议适配与设备能力调研；
+                                               03 主流智能家居协议与设备能力模型调研（含占比与来源）
 ```

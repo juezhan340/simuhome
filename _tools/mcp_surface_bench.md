@@ -35,7 +35,7 @@ cd D:\D_coderesource\simuhome
 
 # B 官方 MCP
 C:\ProgramData\anaconda3\python.exe _tools\mcp_surface_bench.py --profile b `
-    --http http://localhost:8123/api/mcp --out "finally new paper\外界大模型与HA交互方式调研\_measure\b.json"
+    --http http://localhost:8123/api/mcp --out "finally new paper\0918_外界大模型与HA交互方式调研\_measure\b.json"
 
 # C 社区（先给 HA_URL / HA_TOKEN 环境变量）
 $env:HA_URL="http://127.0.0.1:8123"; $env:HA_TOKEN=(Get-Content _secrets\ha_token.txt -Raw).Trim()

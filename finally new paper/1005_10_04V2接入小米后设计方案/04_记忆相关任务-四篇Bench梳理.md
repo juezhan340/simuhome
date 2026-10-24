@@ -1,7 +1,7 @@
 # 04 记忆相关任务：四篇 Bench 梳理
 
 整理日期 2026-10-05。只做整理，不参考、不对比优劣。
-素材：`finally new paper\4个bench\` 下四篇论文的中文文本（01 为中文版，02~04 为机器翻译版）。
+素材：`finally new paper\0524_4个bench\` 下四篇论文的中文文本（01 为中文版，02~04 为机器翻译版）。
 
 ## 0. 结论
 
@@ -148,7 +148,7 @@ TC6 本身   当前 1 次请求 + 记忆上下文；短期记忆里带着最近�
 ## 6. 检索口径与出处
 
 ```text
-文本文件  finally new paper\4个bench\
+文本文件  finally new paper\0524_4个bench\
           01_...HomeBench大模型评估_中.txt
           02_...PersonalHomeBench...zh-CN.mono.txt
           03_...SMH-Bench...zh-CN.mono.txt

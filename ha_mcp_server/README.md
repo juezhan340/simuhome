@@ -9,9 +9,9 @@
            （含写路径与还原验证）；time_control / memory 仍是 NOT_IMPLEMENTED
 新计划      memory 简化成只读：memory() 返回 data\memory.yaml 的整段内容，
            不做 key-value 与写入（见 11 号 §5.7、13 号第 3 节）；工具面仍是 8 个
-设计文档    ..\finally new paper\HomeAssistant双仓库接口分析\11_最终设计_接入层与统一语义MCP.md
+设计文档    ..\finally new paper\0916_HomeAssistant双仓库接口分析\11_最终设计_接入层与统一语义MCP.md
 长期计划    PLAN.md（M1~M5 的进度与分期）
-解耦验证    ..\finally new paper\HomeAssistant双仓库接口分析\_架构探针\（六项报告）
+解耦验证    ..\finally new paper\0916_HomeAssistant双仓库接口分析\_架构探针\（六项报告）
 ```
 
 ## 目录
@@ -69,6 +69,6 @@ check_goal 两组判定、测试后三台设备还原）；time_control / memory
 掉线期间六字段为 null；broker 重启后发布器自动重连；reset 重建后 25 实体 /
 16 条设备注册无重复、rename dry-run 为 0。
 逐项证据与沿路修的问题见
-..\finally new paper\HomeAssistant双仓库接口分析\11_最终设计_接入层与统一语义MCP.md §7，
+..\finally new paper\0916_HomeAssistant双仓库接口分析\11_最终设计_接入层与统一语义MCP.md §7，
 本文不重复。
 ```

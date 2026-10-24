@@ -45,10 +45,8 @@
                  （原 5 + inspect_time + time_control + memory）、check_goal / query_events
                  保留隐藏、ACTION_CALL 复用、tools.expose 白名单、运行与验收命令、
                  已知边界，取代双仓库文件夹的 v1 交接稿 14
-16_四个Bench任务类型梳理.md
-                 按任务类型列清四篇 bench 的 T 数与实例量：
-                 HomeBench 5 类 / SimuHome QT1~QT4（6 类型 12 条件）/
-                 SMH-Bench TC1~TC7（22 子类）/ PersonalHomeBench IG/CF/MC/FR/PG
+（16 号《五个 Bench 任务类型梳理》已移至 0520_方法相关的论文\16_四个Bench任务类型梳理.md：
+ 含 SMH-Bench 22 个子类全表与 HomeFlow 五类任务/自动化规则结论）
 
 辅助调研文档/
                  09_国内可买到Matter小型设备调研.md、10_美的设备HA接入方案调研.md

@@ -28,6 +28,6 @@
 
 ```text
 运行
-  cd "D:\D_coderesource\simuhome\finally new paper\HomeAssistant双仓库接口分析\_架构探针"
+  cd "D:\D_coderesource\simuhome\finally new paper\0916_HomeAssistant双仓库接口分析\_架构探针"
   C:\ProgramData\anaconda3\python.exe probe.py
 ```

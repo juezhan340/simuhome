@@ -7,7 +7,7 @@
 事实来源
   本地源码   ha_core_official\core\（dev 2026.7.0.dev0）里的 mcp_server / mcp / llm / 对话类集成
   本机实测   运行中的容器是 2026.6.4，官方 MCP 端点与 Assist 定位方式在
-             ..\HomeAssistant双仓库接口分析\02 与 03 号文档里有实测记录
+             ..\0916_HomeAssistant双仓库接口分析\02 与 03 号文档里有实测记录
   社区现状   GitHub 搜索（2026-09-18 快照，星数与项目状态会变）
 
 为什么不重复写 03 号文档

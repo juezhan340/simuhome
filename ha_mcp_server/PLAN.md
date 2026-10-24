@@ -1,6 +1,6 @@
 # ha_mcp_server 进度与下一步
 
-设计与规格以 `..\finally new paper\HomeAssistant双仓库接口分析\11_最终设计_接入层与统一语义MCP.md` 为准；
+设计与规格以 `..\finally new paper\0916_HomeAssistant双仓库接口分析\11_最终设计_接入层与统一语义MCP.md` 为准；
 本文只记进度与下一步，不重复设计内容。
 当前实现清单、可用接口与 memory / 预约的处理计划见同目录 `13_实现现状-已实现能力、memory与预约的处理计划.md`。
 

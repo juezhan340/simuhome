@@ -1,6 +1,6 @@
 # source.md
 
-本文件由 `_tools/update_source.py` 自动生成，最后更新：2026-10-10 21:07。
+本文件由 `_tools/update_source.py` 自动生成，最后更新：2026-10-20 21:12。
 
 仓库只跟踪下面第一张表里的目录；第二、三张表里的内容不入库，只登记来源与体积。
 
@@ -8,7 +8,7 @@
 
 | 目录 | 用途 | 大小 | 文件数 | 最后修改 |
 | --- | --- | --- | --- | --- |
-| `finally new paper` | 论文讨论与设计文档、benchmark 与方法论文整理、架构图 | 167.3 MB | 277 | 2026-10-07 |
+| `finally new paper` | 论文讨论与设计文档、benchmark 与方法论文整理、架构图 | 167.3 MB | 280 | 2026-10-20 |
 | `ha_mcp_server` | v1 MCP server（冻结，论文主实验口径） | 0.3 MB | 91 | 2026-09-18 |
 | `ha_mcp_universal` | v2 MCP server：通用化接入，8 个统一语义工具 | 1.0 MB | 153 | 2026-10-10 |
 | `simuhome_mqtt_publisher` | MQTT 接入工程：broker 配置、发布器、实体改名脚本 | 0.2 MB | 44 | 2026-10-10 |
@@ -40,13 +40,13 @@
 | 文件 | 大小 |
 | --- | --- |
 | `_tools/mqtt/mosquitto-2.0.20-install-windows-x64.exe` | 27.0 MB |
-| `finally new paper/4个bench/03_2026_arXiv_SMH-Bench-Environment-Grounded_智能家居环境推理基准_英.no_watermark.zh-CN.mono.pdf` | 26.4 MB |
+| `finally new paper/0524_4个bench/03_2026_arXiv_SMH-Bench-Environment-Grounded_智能家居环境推理基准_英.no_watermark.zh-CN.mono.pdf` | 26.4 MB |
 | `related paper/91_2026_arXiv_SMH-Bench-Environment-Grounded_智能家居环境推理基准_英.no_watermark.zh-CN.mono.pdf` | 26.4 MB |
 | `sandbox/reference paper/1_智能家居核心Benchmark/04a_SMH-Bench_本地整理版.pdf` | 26.4 MB |
-| `finally new paper/4个bench/03_2026_arXiv_SMH-Bench-Environment-Grounded_EN.pdf` | 25.8 MB |
+| `finally new paper/0524_4个bench/03_2026_arXiv_SMH-Bench-Environment-Grounded_EN.pdf` | 25.8 MB |
 | `sandbox/reference paper/1_智能家居核心Benchmark/04_SMH-Bench_官方_arXiv_2606.01912.pdf` | 25.8 MB |
-| `finally new paper/方法相关的论文/19_2026_arXiv_HomeFlow-Data-Flywheel-Smart-Home_数据飞轮智能家居训练_中.pdf` | 18.4 MB |
-| `finally new paper/方法相关的论文/19_2026_arXiv_HomeFlow-Data-Flywheel-Smart-Home_EN.pdf` | 17.9 MB |
+| `finally new paper/0520_方法相关的论文/19_2026_arXiv_HomeFlow-Data-Flywheel-Smart-Home_数据飞轮智能家居训练_中.pdf` | 18.4 MB |
+| `finally new paper/0520_方法相关的论文/19_2026_arXiv_HomeFlow-Data-Flywheel-Smart-Home_EN.pdf` | 17.9 MB |
 | `related paper/2024_2026_smart_home_search_collection/2026/2606.01230.pdf` | 17.9 MB |
 | `related paper/new paper/SAGE_Sasha引用论文/02_SAGE相关/HomeFlow.pdf` | 17.9 MB |
 | `related paper/new paper/SAGE_Sasha引用论文/01_Sasha相关/What-If-Smart-Homes-Could-See.pdf` | 15.7 MB |
@@ -54,7 +54,7 @@
 | `sandbox/reference paper/2_生成式沙盒与社会模拟/01_Generative_Agents_官方_arXiv_2304.03442.pdf` | 11.4 MB |
 | `related paper/07_2025_arXiv_SimuHome-Temporal-Environment_智能家居代理基准_中.pdf` | 9.7 MB |
 | `sandbox/reference paper/1_智能家居核心Benchmark/01a_SimuHome_本地中译整理版.pdf` | 9.7 MB |
-| `finally new paper/4个bench/02_2026_arXiv_PersonalHomeBench-Personalized-Eval_个性化智能家居评估_英.no_watermark.zh-CN.mono.pdf` | 9.6 MB |
+| `finally new paper/0524_4个bench/02_2026_arXiv_PersonalHomeBench-Personalized-Eval_个性化智能家居评估_英.no_watermark.zh-CN.mono.pdf` | 9.6 MB |
 | `related paper/90_2026_arXiv_PersonalHomeBench-Personalized-Eval_个性化智能家居评估_英.no_watermark.zh-CN.mono.pdf` | 9.6 MB |
 | `sandbox/reference paper/1_智能家居核心Benchmark/03a_PersonalHomeBench_本地整理版.pdf` | 9.6 MB |
 | `related paper/new paper/133_2026_IEEE-IoTJ_SHACR-Conflict-Resolution-Smart-Home_多类别冲突解决_中.pdf` | 9.4 MB |
@@ -63,20 +63,20 @@
 | `related paper/智能家居LLM与Agent精选14篇/2606.22312.pdf` | 8.7 MB |
 | `sandbox/reference paper/4_任务型沙盒Benchmark补充/01_WebArena_官方_arXiv_2307.13854.pdf` | 8.7 MB |
 | `related paper/new paper/SAGE_Sasha引用论文/02_SAGE相关/SMH-Bench.pdf` | 7.5 MB |
-| `finally new paper/方法相关的论文/11_2026_arXiv_Proactive-Rejection-Grounded-Execution-Intent-Analysis_双阶段意图分析范式_中.pdf` | 7.1 MB |
+| `finally new paper/0520_方法相关的论文/11_2026_arXiv_Proactive-Rejection-Grounded-Execution-Intent-Analysis_双阶段意图分析范式_中.pdf` | 7.1 MB |
 | `related paper/new paper/126_2026_arXiv_Proactive-Rejection-Grounded-Execution-Intent-Analysis_双阶段意图分析范式_中.pdf` | 7.1 MB |
-| `finally new paper/方法相关的论文/17_2025_ACM-SenSys_TaskSense-Translation-Heterogeneous-Sensors_异构传感器任务翻译_英.no_watermark.zh-CN.mono.pdf` | 7.0 MB |
+| `finally new paper/0520_方法相关的论文/17_2025_ACM-SenSys_TaskSense-Translation-Heterogeneous-Sensors_异构传感器任务翻译_英.no_watermark.zh-CN.mono.pdf` | 7.0 MB |
 | `related paper/2024_2026_smart_home_search_collection/2026/2603.16207.pdf` | 6.6 MB |
 | `related paper/智能家居LLM与Agent精选14篇/2603.16207.pdf` | 6.6 MB |
-| `finally new paper/方法相关的论文/05_2026-IMX-GenX Device Orchestration for Multimodal Generative Experiences面向多模态生成体验的设备编排.no_watermark.zh-CN.mono.pdf` | 6.6 MB |
-| `finally new paper/方法相关的论文/18_2023_ACM-CHI_SAGE-Smart-Home-Agent-Grounded-Execution_SAGE智能家居代理落地执行_中.pdf` | 6.5 MB |
+| `finally new paper/0520_方法相关的论文/05_2026-IMX-GenX Device Orchestration for Multimodal Generative Experiences面向多模态生成体验的设备编排.no_watermark.zh-CN.mono.pdf` | 6.6 MB |
+| `finally new paper/0520_方法相关的论文/18_2023_ACM-CHI_SAGE-Smart-Home-Agent-Grounded-Execution_SAGE智能家居代理落地执行_中.pdf` | 6.5 MB |
 | `related paper/new paper/SAGE_Sasha引用论文/01_Sasha相关/TaskSense.pdf` | 6.5 MB |
 | `sageproject/SAGE_paper_2311.00772.pdf` | 6.1 MB |
 | `related paper/2024_2026_smart_home_search_collection/2025/2505.01332.pdf` | 4.4 MB |
 | `sandbox/reference paper/4_任务型沙盒Benchmark补充/02_AppWorld_官方_ACL_2024.pdf` | 4.1 MB |
 | `related paper/new paper/SAGE_Sasha引用论文/03_Sasha与SAGE共同引用/Intelligence-of-Things.pdf` | 3.8 MB |
-| `finally new paper/方法相关的论文/16_2026_ACM-IMWUT_MemAura-Structured-Context-Memory-Personalized_结构化上下文记忆_英.no_watermark.zh-CN.mono.pdf` | 3.7 MB |
-| `finally new paper/方法相关的论文/09_2024_ACM-CCS_Sasha-Creative-Goal-Oriented-Reasoning_Sasha创意目标导向推理_中.pdf` | 3.7 MB |
+| `finally new paper/0520_方法相关的论文/16_2026_ACM-IMWUT_MemAura-Structured-Context-Memory-Personalized_结构化上下文记忆_英.no_watermark.zh-CN.mono.pdf` | 3.7 MB |
+| `finally new paper/0520_方法相关的论文/09_2024_ACM-CCS_Sasha-Creative-Goal-Oriented-Reasoning_Sasha创意目标导向推理_中.pdf` | 3.7 MB |
 | `related paper/new paper/59_2024_ACM-CCS_Sasha-Creative-Goal-Oriented-Reasoning_Sasha创意目标导向推理_中.pdf` | 3.7 MB |
 | `related paper/2024_2026_smart_home_search_collection/2026/2604.10110.pdf` | 3.6 MB |
 | （其余 109 个小文件） | 132.5 MB |

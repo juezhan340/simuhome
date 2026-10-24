@@ -86,7 +86,7 @@ python tests\test_llm_surface.py --config config.yaml
 # 12 项：8 个接口全部真实调用（observe/inspect×3/execute/finish/time_control/memory）
 ```
 
-8 个工具一览（详见 `finally new paper\10_04V2接入小米后设计方案\15_目前方案与交付接口.md`）：
+8 个工具一览（详见 `finally new paper\1005_10_04V2接入小米后设计方案\15_目前方案与交付接口.md`）：
 
 ```text
 observe_home / inspect_room / inspect_device / execute_action / finish

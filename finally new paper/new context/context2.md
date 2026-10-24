@@ -52,7 +52,7 @@ M3 完成       execute_action（四道闸门 + 回读）+ check_goal（conditio
 ### 1.3 09-18 ~ 09-19：外界方案调研（B/C）与预实验
 
 ```text
-新文件夹      finally new paper\外界大模型与HA交互方式调研\
+新文件夹      finally new paper\0918_外界大模型与HA交互方式调研\
 01 号文档     六条路线盘点（A HA 内置对话代理 / B 官方 MCP Server / C 社区 MCP Server /
               D HA 当 MCP 客户端 / E 直接 REST-WS / F 传统通道），含 HA 源码实测
 02 号文档     B/C 冒烟记录：官方 MCP 12 工具（required 全空）、社区 hass-mcp 0.6.0 29 工具 / get_version 通
@@ -236,7 +236,7 @@ M3（暂缓）        命名泛化（set_temperature→set_target，A/B/C 待拍
 v1 的端到端       米家接入后 v1 会看到第 4 个房间（空区域），端到端 20/21；用户决定不动 v1
 代理与 hosts      这是本机环境的既有配置；换机器要重做（hosts 那行 + 代理绕过）
 长时间运行        soak（内存/日志/死锁）没跑；M5-1/M5-2 已在 09-18 验证过
-论文侧            三支柱的策略以 UbiComp三支柱讨论\12_投稿策略 为准；预实验写法见 03 号文档第 7 节
+论文侧            三支柱的策略以 0909_UbiComp三支柱讨论\12_投稿策略 为准；预实验写法见 03 号文档第 7 节
 ```
 
 ## 8. 怎么把环境拉起来、怎么验证
@@ -273,14 +273,14 @@ git -C D:\D_coderesource\simuhome -c http.proxy=http://127.0.0.1:7897 push
 ## 9. 关键文件索引
 
 ```text
-设计文档    finally new paper\HomeAssistant双仓库接口分析\
+设计文档    finally new paper\0916_HomeAssistant双仓库接口分析\
               11_最终设计_接入层与统一语义MCP.md        （实现以它为准）
               12_统一能力接口设计.md                    （C 粒度：8 动作 + 6 字段 + 覆盖缺口）
               13_实现现状-已实现能力、memory与预约的处理计划.md
               14_接口交接-八个工具与统一语义.md          （RL demo 用）
               15_MCP接入真实设备的映射扩展设计.md        （三道闸门与 A/B/C 方案）
-投稿策略    finally new paper\UbiComp三支柱讨论\12_投稿策略-把三个支柱的故事讲圆.md （绝对关键路径）
-调研        finally new paper\外界大模型与HA交互方式调研\01/02/03（含论文预实验写法草稿）
+投稿策略    finally new paper\0909_UbiComp三支柱讨论\12_投稿策略-把三个支柱的故事讲圆.md （绝对关键路径）
+调研        finally new paper\0918_外界大模型与HA交互方式调研\01/02/03（含论文预实验写法草稿）
 v1          ha_mcp_server\（PLAN.md 记进度；src\home_mcp\contract\tools.py 是契约唯一来源）
 v2          ha_mcp_universal\（方案-通用化设备接入设计.md 是设计；registry\ 是 M1/M2 新增的三层）
 接入层      simuhome_mqtt_publisher\（publisher / broker / rename / reset_discovery，各配 .md）
@@ -296,3 +296,5 @@ v2          ha_mcp_universal\（方案-通用化设备接入设计.md 是设计�
 "把 v2 的 M1/M2 过程与验收整理进文档/论文附录"
 "米家又接了新设备，先跑一遍认领与角色投影看漏了什么"
 ```
+
+> 后续：`context3.md`（2026-09-27 ~ 10-24：v2 八工具、deploy 可移植化、1012 调研与目录归档）

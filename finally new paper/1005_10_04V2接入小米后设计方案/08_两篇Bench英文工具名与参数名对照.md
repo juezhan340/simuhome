@@ -21,10 +21,10 @@ HomeFlow    只到"动作空间"这一层：A = A_NL ∪ A_Exec，
 
 ```text
 SMH-Bench   arXiv:2606.01912v1
-            finally new paper\4个bench\03_2026_arXiv_SMH-Bench-Environment-Grounded_EN.pdf
+            finally new paper\0524_4个bench\03_2026_arXiv_SMH-Bench-Environment-Grounded_EN.pdf
             同目录 .txt（pdftotext 抽取，146.5 KB）
 HomeFlow    arXiv:2606.01230v1
-            finally new paper\方法相关的论文\19_2026_arXiv_HomeFlow-Data-Flywheel-Smart-Home_EN.pdf
+            finally new paper\0520_方法相关的论文\19_2026_arXiv_HomeFlow-Data-Flywheel-Smart-Home_EN.pdf
             同目录 .txt（pdftotext 抽取，86.8 KB）
 说明        中文翻译版保留不动，英文版是新加的对照版本
 ```

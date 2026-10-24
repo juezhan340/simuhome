@@ -26,7 +26,7 @@
 
 ### 1.1 触发
 
-用户要求先读 `finally new paper\UbiComp三支柱讨论\`。我读完 7 份 md + 1 张预览海报，逐份梳理：
+用户要求先读 `finally new paper\0909_UbiComp三支柱讨论\`。我读完 7 份 md + 1 张预览海报，逐份梳理：
 
 ```text
 1_UbiComp新论文讨论        三支柱总纲：中重量沙盒 + SFT/RL + 同语义 MCP 迁移；含 7 个待拍板问题
@@ -522,7 +522,7 @@ M4    录制器（论文要回放时再做）
 
 ## 15. 文件地图与常用命令
 
-### 15.1 文档（都在 finally new paper\HomeAssistant双仓库接口分析\）
+### 15.1 文档（都在 finally new paper\0916_HomeAssistant双仓库接口分析\）
 
 ```text
 01 目录与作用              四个部分各是什么、官方源码有什么用、起停、已知缺口
