@@ -12,6 +12,7 @@
 !/_tools/
 !/context/
 !/deploy/
+!/ha_integration_sources/
 
 # 通用排除
 __pycache__/
